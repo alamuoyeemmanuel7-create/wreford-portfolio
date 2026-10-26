@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+*.mov
+*.mp4
+*.avi
+*.mkv
+public/videos/
